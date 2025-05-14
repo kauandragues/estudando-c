@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-Autor: Luis Damas
+Autor do exercício: Luis Damas
 Resolvido por: github/kauandragues
 13/05/2025
 
