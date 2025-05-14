@@ -12,7 +12,7 @@ int main(){
 	char operacao;
 	printf("Bem-vindo a sua calculadora!!");
 	printf("\nDigite um operação com dois inteiros: ");
-	scanf("%d %c %d", &num1, &operacao, &num2);
+	scanf("%d %c %d", &num1, &operacao, &num2); 
 	
 	switch (operacao){
 		case '+':
