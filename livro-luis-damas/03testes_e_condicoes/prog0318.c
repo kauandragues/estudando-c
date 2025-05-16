@@ -4,7 +4,7 @@
 Autor do exercício: Luis Damas
 Resolvido por: github/kauandragues
 
-14/05/2025
+15/05/2025
 
 Escreva um programa que indique quantas segundos, minutos e décimos de segundos
 tem um determinado número de horas
